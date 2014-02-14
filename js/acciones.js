@@ -6,4 +6,4 @@ $(document).ready(function(){
 	  
 	  }); // tap de B1
   });// device ready
-}) //ready
+}); //ready
